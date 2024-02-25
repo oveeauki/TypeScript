@@ -1,0 +1,12 @@
+{
+ "compilerOptions": {
+    "target": "es5",
+    "module": "Node16",
+    "strict": true,
+    "esModuleInterop": false,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": false,
+    "moduleResolution": "Node16"
+  }
+}
