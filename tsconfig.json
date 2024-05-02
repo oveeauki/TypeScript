@@ -1,12 +1,13 @@
 {
  "compilerOptions": {
     "target": "es5",
-    "module": "Node16",
-    "strict": true,
+    "module": "NodeNext",
+    "strict": false,
     "esModuleInterop": false,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "sourceMap": false,
-    "moduleResolution": "Node16"
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true
   }
 }
